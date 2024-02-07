@@ -32,7 +32,7 @@ def word_count(file_contents):
 # function initializes a character dictionary
 # initializes a characters string that makes all characters lower case
 # loops for each character in the characters string whereby
-# if the character key in the character dictionary is present, its value is increase by one
+# if the character key in the character dictionary is present, its value is increased by one
 # else it sets the character as the key with a value of 1
 
 def character_count(file_contents):
